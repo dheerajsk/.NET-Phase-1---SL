@@ -1,4 +1,5 @@
 ﻿using DataStructures.SingleLinkedList;
+using DataStructures.Stack;
 using System;
 
 namespace DataStructures
@@ -8,7 +9,8 @@ namespace DataStructures
         static void Main(string[] args)
         {
             //ArrayProgram.Do();
-            SingleLLProgram.Do();
+            //SingleLLProgram.Do();
+            StackProgram.Do();
         }
     }
 }
